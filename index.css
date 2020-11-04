@@ -1,0 +1,8 @@
+#hisotry-table {
+  overflow-y: scroll;      
+  height: 400px;
+}
+
+label {
+  margin-right: 10px;
+}
